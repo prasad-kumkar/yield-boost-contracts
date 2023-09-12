@@ -1,0 +1,15 @@
+{
+  "PoolAddressesProviderRegistry": 1694438336,
+  "LogicLibraries": 1694438514,
+  "Treasury": 1694438537,
+  "PoolAddressesProvider:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438555,
+  "Oracles:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438559,
+  "PoolConfigurator": 1694438581,
+  "ACLManager:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438605,
+  "InitOracles:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438608,
+  "PoolInitalization:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438624,
+  "Incentives:WSTETH_ARB_DEC_2023:aave-v3-periphery@0.0.1": 1694438652,
+  "TokenImplementations:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438681,
+  "ReservesInit:WSTETH_ARB_DEC_2023:aave-v3-core@0.0.1": 1694438724,
+  "PeripheryInit:WSTETH_ARB_DEC_2023:aave-v3-periphery@0.0.1": 1694438724
+}
